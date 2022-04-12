@@ -1,3 +1,5 @@
 Adding some words for the hands on Git tutorial activity.
 
 Now there's a second sentence.
+
+This is branch text!
